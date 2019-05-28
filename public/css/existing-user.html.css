@@ -1,0 +1,101 @@
+*{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url("/../images/meat.png");
+    background-repeat: repeat;
+    width: 960px;
+
+}
+
+aside {
+    display: inline-block;
+}
+
+.header {
+    font-size: 3rem;
+}
+
+.content {
+    background-color: darkgreen;
+}
+
+.color {
+    background-color: #eee;
+}
+.center {
+    width: 400px;
+    border: 3px solid #eee;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.login {
+    width: 400px;
+    border: 3px solid #eee;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 5rem;
+}
+button {
+    background-color: red; 
+    border: none;
+    color: white;
+    padding: .75rem .75rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.main {
+    background-color: olivedrab;
+}
+
+.inline{
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.block{
+    display: block;
+}
+
+.title{
+    height:15px;
+    width:400px;
+}
+
+.small{
+    height: 15px;
+    width: 200px;
+}
+
+.medium{
+    height: 80px;
+    width: 200px;
+}
+
+.large{
+    height: 160px;
+    width: 800px;
+    margin-top:10px;
+}
+
+nav ul li {
+    text-decoration: none;
+    
+}
